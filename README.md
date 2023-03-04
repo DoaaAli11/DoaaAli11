@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Engineering and Web Development**
 
-- 💬 Ask me about **Python or C++**
+- 💬 Ask me about **Python, C++, OOP concepts**
 
 - 📫 How to reach me **alid38168@gmail.com**
 
