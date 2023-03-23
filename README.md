@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, C++ or OOP concepts**
 
-- 📫 How to reach me **alid38168@gmail.com**
+- 📫 How to reach me **doali246885@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
