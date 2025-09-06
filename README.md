@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Doaa ALi El-Sayed</h1>
-<h3 align="center">A student at faculty of Computers and Artificial Intelligence - Information Systems department - Cairo University</h3>
+<h1 align="center">Hi 👋, I'm Doaa Ali El-Sayed</h1>
+<h3 align="center">A graduate of faculty of Computers and Artificial Intelligence - Information Systems department - Cairo University</h3>
 
 - 🌱 I’m currently learning **Software engineering and Web development**
 
