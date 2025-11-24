@@ -1,120 +1,125 @@
-<h1 align="center">Hi 👋, I'm Doaa Ali El-Sayed</h1>
-<h3 align="center">I am a Computers and AI graduate, majoring in Information Systems. I have knowledge in software development as well as data analysis and engineering, with skills in SQL, Python, Power BI, and Data Warehouse. I aim to apply both software and data expertise to build effective, real-world solutions.</h3>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doaaali11&label=Profile%20views&color=0e75b6&style=flat" alt="doaaali11" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doaaali11" alt="doaaali11" /></a> </p>
--->
+<h1 align="center">
+  <span style="color:#ff77c0;">
+    Hi 👋, I'm
+  </span> 
+  <span style="color:#000000;">Doaa Ali</span>
+</h1>
 
-- 🌱 I’m currently learning **Data Analysis & Engineering**
+<h3 align="center">
+💖 Computers & AI Graduate | Software Developer | Data Analyst & Engineer
+</h3>
 
-- 💬 Ask me about **Software Engineering, System Analysis, Database & Data Warehouse Management, Data Analysis**
+---
 
-- 📫 How to reach me **doali246885@gmail.com**
+### 🌸 About Me
+I'm a **Computers & AI graduate**, majoring in **Information Systems**.  
+I blend **software engineering** and **data analytics** to build **impactful solutions**.  
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1osBqR6RNd_2Y5OtQPBSMvaO1GYWpceaC/view](https://drive.google.com/file/d/1osBqR6RNd_2Y5OtQPBSMvaO1GYWpceaC/view)
+---
 
-- ⚡ Fun fact **I love reading fantasy novels**
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/doaa-ali-8097a3262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[https://linkedin.com/in/doaa-ali-8097a3262](https://www.linkedin.com/in/doaa-ali-el-sayed-8097a3262/)](https://www.linkedin.com/in/doaa-ali-el-sayed-8097a3262/)" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/doaaali27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="doaaali27" height="30" width="40" /></a>
-<a href="https://discord.gg/#7527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7527" height="30" width="40" /></a>
+### 🔥 Currently Learning
+- Advanced **Data Analysis & Engineering**  
+- **Machine Learning** & AI Tools  
+- Cloud-based **Data Platforms**
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Ask Me About
+- Software & Systems Development  
+- Database & Data Warehouse Management  
+- Data Analysis, Visualization & BI Tools
+
+</td>
+</tr>
+</table>
+
+---
+
+### ✨ Fun Fact
+I love reading fantasy novels & exploring new tech trends 💖
+
+---
+
+### 📫 Contact Me
+- Email: [doali246885@gmail.com](mailto:doali246885@gmail.com)  
+- CV: [View My CV](https://drive.google.com/file/d/1osBqR6RNd_2Y5OtQPBSMvaO1GYWpceaC/view)
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/doaa-ali-el-sayed-8097a3262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23ff77c0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/doaaali27" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23000000?style=for-the-badge&logo=codeforces&logoColor=%23ff77c0" />
+  </a>
+  <a href="https://discord.gg/#7527" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%23ff77c0?style=for-the-badge&logo=discord&logoColor=black" />
+  </a>
+  <a href="https://t.me/DoaaAli846" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%23000000?style=for-the-badge&logo=telegram&logoColor=%23ff77c0" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
+### 🛠 Languages & Tools
+<p align="center">
+  <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
   
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-
-  <!-- Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
+  <!-- Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
 
   <!-- Frameworks -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
 
   <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
 
   <!-- Data Tools -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" />
 
-  <!-- Other Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-  
+  <!-- Others -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaali11&show_icons=true&locale=en&layout=compact" alt="doaaali11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaaali11&show_icons=true&locale=en" alt="doaaali11" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaali11&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaaali11&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaaali11&theme=dracula" alt="Streak Stats" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaaali11&" alt="doaaali11" /></p>
+---
 
+### 🌟 Top Contributed Repository
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=doaaali11&limit=7&theme=dracula" />
+</p>
