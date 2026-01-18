@@ -10,10 +10,14 @@
 </h3>
 
 ---
-
-### 🌸 About Me
+## 🌸 About Me  
 I'm a **Computers & AI graduate**, majoring in **Information Systems**.  
 I blend **software engineering** and **data analytics** to build **impactful solutions**.  
+
+- 🔭 **Currently working on:** Data-driven full-stack web projects with ETL pipelines and scalable applications
+- 👯 **Looking to collaborate on:** Data analytics/engineering & full-stack projects using Python, SQL, React, REST APIs
+- 🤝 **Looking for help with:** Advanced data engineering, cloud deployment, and large-scale pipeline optimization
+- 🌱 **Currently learning:** Big Data technologies, advanced data modeling, system design, and performance optimization
 
 ---
 
@@ -21,18 +25,22 @@ I blend **software engineering** and **data analytics** to build **impactful sol
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 Currently Learning
+### 🔥 Focus Areas
 - Advanced **Data Analysis & Engineering**  
 - **Machine Learning** & AI Tools  
 - Cloud-based **Data Platforms**
+- Big Data (Hadoop, Spark, Kafka)
+- Data Modeling & System Design
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Ask Me About
+### 💬 Expertise
 - Software & Systems Development  
 - Database & Data Warehouse Management  
-- Data Analysis, Visualization & BI Tools
+- Data Analysis, Visualization & BI
+- ETL pipelines & Dashboard tools
+- SQL optimization & Web frameworks
 
 </td>
 </tr>
@@ -41,13 +49,14 @@ I blend **software engineering** and **data analytics** to build **impactful sol
 ---
 
 ### ✨ Fun Fact
-I love reading fantasy novels & exploring new tech trends 💖
+I love reading fantasy novels & exploring new tech trends 💖  
+I enjoy turning raw data and complex requirements into clean insights and scalable, user-friendly applications 🚀
 
 ---
 
 ### 📫 Contact Me
-- Email: [doali246885@gmail.com](mailto:doali246885@gmail.com)  
-- CV: [View My CV](https://drive.google.com/file/d/1osBqR6RNd_2Y5OtQPBSMvaO1GYWpceaC/view)
+- **Email:** [doali246885@gmail.com](mailto:doali246885@gmail.com)  
+- **CV:** [View My CV](https://drive.google.com/file/d/1osBqR6RNd_2Y5OtQPBSMvaO1GYWpceaC/view)
 
 ---
 
@@ -69,57 +78,61 @@ I love reading fantasy novels & exploring new tech trends 💖
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 <p align="center">
   <!-- Programming -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white" />
   
   <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
 
   <!-- Frameworks -->
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white" />
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
 
   <!-- Data Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black" />
 
-  <!-- Others -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doaaali11&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doaaali11&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doaaali11&theme=dracula" alt="Streak Stats" /></p>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=DoaaAli11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=DoaaAli11&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DoaaAli11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-### 🌟 Top Contributed Repository
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=doaaali11&limit=7&theme=dracula" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
